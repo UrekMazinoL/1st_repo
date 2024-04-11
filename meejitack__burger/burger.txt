@@ -1,0 +1,2 @@
+ChicKen Burger,6.98,A chicken burger contains chicken lettuce patty bread 
+Basic Burger,4.32,A Basic Burger consist of lettuce tomato patty cheese
